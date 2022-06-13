@@ -50,6 +50,14 @@ I'm a Student 👨‍🎓, Full Stack Developer 🚀
 [<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>][html]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/>][javascript]
 
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+
+<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+
+<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+
 
 
 
@@ -61,6 +69,7 @@ I'm a Student 👨‍🎓, Full Stack Developer 🚀
 [python]: https://www.python.org/
 [html]: https://tr.wikipedia.org/wiki/HTML
 [javascript]: https://tr.wikipedia.org/wiki/JavaScript
+
 
 
 
