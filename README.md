@@ -34,7 +34,9 @@ I'm a Student 👨‍🎓, Full Stack Developer 🚀
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/ferhat-armutlu/
-[gmail]: developerferhat@gmail.com 
+[gmail]: developerferhat@gmail.com
+
+
 
 
 
@@ -78,6 +80,7 @@ I'm a Student 👨‍🎓, Full Stack Developer 🚀
 
 
 
+<br/>
 <br/>
 
 
