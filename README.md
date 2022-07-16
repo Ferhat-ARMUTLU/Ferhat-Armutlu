@@ -19,7 +19,8 @@ I'm a Student 👨‍🎓, Full Stack Developer 🚀
 
 -🌱 I’m currently learning 😂
 -🥅 2022+ Goals: Developing an app to be heard in the world 🌎
--⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 
+
+
 
 
 <br/>
